@@ -1,0 +1,104 @@
+<?xml version=“1.0” encoding=“ISO-8859-1”?>
+	<car>
+		<make>Chevrolet</make>
+		<model>Malibu</model>
+		<year>2006</year>
+		<color>White</color>
+		<license>555-YLJ</license>
+		<condition>Used</condition>
+		<price><$2500</price>
+	</car>
+
+	<team>
+		<sport>Baseball</sport>
+		<league>MLB</league>
+		<location>
+			<stadium>Miller Park</stadium>
+			<city>Milwaukee</city>
+			<state>Wisconsin</state>
+			<country>USA</country>
+		</location>
+		<name>Brewers</name>
+		<color type=“primary”>Blue</color>
+		<color type=“secondary”>Gold</color>
+		<coach>Craig Counsell</coach>
+		<mascot>Bernie Brewer</mascot>
+	</team>
+
+	<catalog>
+		<cd1>
+			<name>Abbey Road</name>
+			<artist>The Beatles</artist>
+			<genre>Rock</genre>
+			<year>1969</year>
+			<studio>EMI</studio>
+			<tracklisting>
+				<song>
+					<track>1</track>
+					<title>Come Together</title>
+					<vocals>Lennon</vocals>
+					<length>4:20</length>
+				</song>
+				<song>
+					<track>2</track>
+					<title>Something</title>
+					<vocals>Harrison</vocals>
+					<length>3:03</length>
+				</song>
+				<song>
+					<track>3</track>
+					<title>Maxwell’s Silver Hammer</title>
+					<vocals>McCartney</vocals>
+					<length>3:27</length>
+				</song>
+				<song>
+					<track>4</track>
+					<title>Oh! Darling</title>
+					<vocals>McCartney</vocals>
+					<length>3:26</length>
+				</song>
+				<song>
+					<track>5</track>
+					<title>Octopus’s Garden</title>
+					<vocals>Starr</vocals>
+					<length>2:51</length>
+				</song>
+			</tracklisting>
+		</cd1>
+	
+		<cd2>
+			<name>Recovery</name>
+			<artist>Eminem</artist>
+			<genre>Rap</genre>
+			<year>2010</year>
+			<label>Aftermath</label>
+			<tracklisting>
+				<song>
+					<track>1</track>
+					<title>Cold Wind Blows</title>
+					<length>5:03</length>
+				</song>
+				<song>
+					<track>2</track>
+					<title>Talkin’ to Myself</title>
+					<length>5:00</length>
+				</song>
+				<song>
+					<track>3</track>
+					<title>On Fire</title>
+					<length>3:33</length>
+				</song>
+				<song>
+					<track>4</track>
+					<title>Won’t Back Down</title>
+					<length>4:25</length>
+				</song>
+				<song>
+					<track>5</track>
+					<title>W.T.P.</title>
+					<length>3:58</length>
+				</song>
+			</tracklisting>
+		<cd2>
+	<catalog>
+</xml>

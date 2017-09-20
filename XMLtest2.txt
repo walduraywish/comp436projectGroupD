@@ -1,0 +1,24 @@
+<?xml version=“1.0” encoding=“ISO-8859-1”?>
+	<work>
+		<author>Virginia Wolfe</author>
+		<title>To the Lighthouse</title>
+		<text>
+			<h1>To the Lighthouse</h1>
+			</br>
+			<p>(Here … candle.)</p>
+			</br>
+			<chapter>3</chapter>
+			</br>
+			<p>But … faint <highlight color=“green”>green</highlight> quickens … wave.</p>
+			</p>It seemed … distinct, <b>the hare erect</b>; the wave … should be</p>
+		</text>
+		<page>198</page>
+
+</xml>
+
+
+Stylization:
+<p style=“font-color: black; font-size: regular; text-align: left;”>
+<h1 style=“text-decoration: underline; text-align: center;”>
+<chapter style=“text-color: blue; font-weight: bold; text-align: center;”>
+<page style=“font-style: italic; font-size: small; text-align: left; position: bottom;”>

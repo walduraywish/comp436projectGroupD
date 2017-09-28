@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="toy1.xsl"?>
+<catalog>
+ <toy>
+  <brand>Fisher Price</brand>
+  <material>Plastic</material>
+  <name>Zoom's Crawl Monster</name>
+  <price>34.97</price>
+  <seller>Amazon</seller>
+ </toy>
+</catalog>
+
+

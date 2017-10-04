@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="interface.xsl"?>
+<catalog>
+    <item id="001">
+        <name>Easy-Iron Slim-Fit Shirt</name>
+        <photo><img src="http://lp.hm.com/hmprod?set=key[source],value[/model/2017/F00%200501616%20007%2068%203380.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">White</color>
+        </colors>
+        <sizes>
+            <size>
+                XS
+            </size>
+            <size>
+                S
+            </size>
+            <size>
+                M
+            </size>
+            <size>
+                L
+            </size>
+            <size>
+                XL
+            </size>
+            <size>
+                XXL
+            </size>
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>14.99</price>
+        <sku>53-5964</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+                Polyester
+            </material>
+            <material>
+                Cotton
+            </material>
+        </materials>
+    </item>
+</catalog>

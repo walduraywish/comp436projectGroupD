@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image>
+    <work>The Amorlfini Portrait</work>
+    <location>London</location>
+    <artist>Jan Van Eyck</artist>
+    <year>1434</year>
+    <condition>Good</condition>
+    <orientation>Portrait</orientation>
+    <setting>
+        <place>Ornamental room</place>
+        <time>Daytime</time>
+        <season>Summer</season>
+    </setting>
+    <content>
+        <overview>
+            <description>The couple are shown in an upstairs room with a chest and a bed in it during early summer as indicated by the fruit on the cherry tree outside the window. The room probably functioned as a reception room, as it was the fashion in France and Burgundy where beds in reception rooms were used as seating, except, for example, when a mother with a new baby received visitors. The window has six interior wooden shutters, but only the top opening has glass, with clear bulls-eye pieces set in blue, red and green stained glass.
+
+                The two figures are very richly dressed; despite the season both their outer garments, his tabard and her dress, are trimmed and fully lined with fur. The furs may be the especially expensive sable for him and ermine or miniver for her. He wears a hat of plaited straw dyed black, as often worn in the summer at the time. His tabard was more purple than it appears now (as the pigments have faded over time) and may be intended to be silk velvet (another very expensive item). Underneath he wears a doublet of patterned material, probably silk damask. Her dress has elaborate dagging (cloth folded and sewn together, then cut and frayed decoratively) on the sleeves, and a long train. Her blue underdress is also trimmed with white fur.
+
+                Although the woman's plain gold necklace and the rings that both wear are the only jewellery visible, both outfits would have been enormously expensive, and appreciated as such by a contemporary viewer. There may be an element of restraint in their clothes (especially the man) befitting their merchant status – portraits of aristocrats tend to show gold chains and more decorated cloth, although "the restrained colours of the man's clothing correspond to those favoured by Duke Phillip of Burgundy".
+
+
+                Detail showing the female subject and convex mirror
+                The interior of the room has other signs of wealth; the brass chandelier is large and elaborate by contemporary standards, and would have been very expensive. It would probably have had a mechanism with pulley and chains above, to lower it for managing the candles (possibly omitted from the painting for lack of room). The convex mirror at the back, in a wooden frame with scenes of The Passion painted behind glass, is shown larger than such mirrors could actually be made at this date – another discreet departure from realism by van Eyck. There is also no sign of a fireplace (including in the mirror), nor anywhere obvious to put one. Even the oranges casually placed to the left are a sign of wealth; they were very expensive in Burgundy, and may have been one of the items dealt in by Arnolfini. Further signs of luxury are the elaborate bed-hangings and the carvings on the chair and bench against the back wall (to the right, partly hidden by the bed), also the small Oriental carpet on the floor by the bed; many owners of such expensive objects placed them on tables, as they still do in the Netherlands.
+
+                The view in the mirror shows two figures just inside the door that the couple are facing. The second figure, wearing red, is presumably the artist although, unlike Velázquez in Las Meninas, he does not seem to be painting. Scholars have made this assumption based on the appearance of figures wearing red head-dresses in some other van Eyck works (e.g., the Portrait of a Man (Self Portrait?) and the figure in the background of the Madonna with Chancellor Rolin). The dog is an early form of the breed now known as the Brussels griffon.
+
+                The painting is signed, inscribed and dated on the wall above the mirror: "Johannes de eyck fuit hic 1434" ("Jan van Eyck was here 1434"). The inscription looks as if it were painted in large letters on the wall, as was done with proverbs and other phrases at this period. Other surviving van Eyck signatures are painted in trompe l'oeil on the wooden frame of his paintings, so that they appear to have been carved in the wood.
+            </description>
+        </overview>
+        <feature>
+            <name>Man</name>
+            <location>Left-of-Center</location>
+            <description>A man dessed in black robes and a black hat stands in a room holding the hand of his new wife.</description>
+        </feature>
+        <feature>
+            <name>Woman</name>
+            <location>Right-of-Center</location>
+            <description>A woman dresseed in a green dress and white hair-cover stands holding the hand of her new husband.</description>
+        </feature>
+        <feature>
+            <name>Mirror</name>
+            <location>Center</location>
+            <description>A circular mirror hangs on the back wall of the room. Around its edge are scenes of the Passion of the Christ. Scenes of His life are on the left, while scenes of His death are on the right.</description>
+        </feature>
+        <feature>
+            <name>Chandeleir</name>
+            <location>Top-Center</location>
+            <description>A gold chandeleir hangs from the ceiling. It holds five candles.</description>
+        </feature>
+        <feature>
+            <name>Lit Candle</name>
+            <location>Top-Center</location>
+            <description>A lit candle sits in the center of the chandeleir. This is strange as the painting is a daytime scene.</description>
+        </feature>
+        <feature>
+            <name>Small Dog</name>
+            <location>Bottom-Center</location>
+            <description>A small fluffy dog walks in front of the couple, it is oriented towards the "fourth-wall".</description>
+        </feature>
+        <feature>
+            <name>Window</name>
+            <location>Left</location>
+            <description>An open window is on the left wall of the room. A cherry tree is visible. It is daytime outside.</description>
+        </feature>
+    </content>
+</image>

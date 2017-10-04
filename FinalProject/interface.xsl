@@ -26,15 +26,15 @@
                     <td><xsl:value-of select="name"/></td>
                     <td><xsl:value-of select="photo"/></td>
                     <td><xsl:value-of select="type"/></td>
-                    <td><xsl:value-of select="color"/></td>
-                    <td><xsl:value-of select="size"/></td>
+                    <td><xsl:value-of select="colors"/></td>
+                    <td><xsl:value-of select="sizes"/></td>
                     <td><xsl:value-of select="brand"/></td>
                     <td><xsl:value-of select="price"/></td>
                     <td><xsl:value-of select="sku"/></td>
                     <td><xsl:value-of select="gender"/></td>
                     <td><xsl:value-of select="pattern"/></td>
                     <td><xsl:value-of select="occasion"/></td>
-                    <td><xsl:value-of select="material"/></td>
+                    <td><xsl:value-of select="materials"/></td>
                 </tr>
             </xsl:for-each>
         </table>

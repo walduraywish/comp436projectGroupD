@@ -3,7 +3,7 @@
 <catalog>
     <item id="001">
         <name>Easy-Iron Slim-Fit Shirt</name>
-        <photo><img src="http://lp.hm.com/hmprod?set=key[source],value[/model/2017/F00%200501616%20007%2068%203380.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]"/></photo>
+        <photo><img src="http://lp.hm.com/hmprod?set=key&#91;source&#93;,value&#91;/model/2017/F00%200501616%20007%2068%203380.jpg&#93;&amp;=key&#91;rotate&#93;,value&#91;&#93;&amp;=key&#91;width&#93;,value&#91;&#93;&amp;=key&#91;height&#93;,value&#91;&#93;&amp;=key&#91;x&#93;,value&#91;&#93;&amp;=key&#91;y&#93;,value&#91;&#93;&amp;=key&#91;type&#93;,value&#91;STILL_LIFE_FRONT&#93;&amp;=key&#91;hmver&#93;,value&#91;1&#93;&call=url&#91;file:/product/large&#93&#59;"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
@@ -28,7 +28,7 @@
                 XXL
             </size>
         </sizes>
-        <brand>American Eagle</brand>
+        <brand>H&amp;M</brand>
         <price>14.99</price>
         <sku>53-5964</sku>
         <gender>Men</gender>
@@ -40,6 +40,222 @@
             </material>
             <material>
                 Cotton
+            </material>
+        </materials>
+    </item>
+    <item id="002">
+        <name>AEO Extreme Flex Classic Flat Front Short</name>
+        <photo><img src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Short</type>
+        <colors>
+            <color type="primary">Red</color>
+        </colors>
+        <sizes>
+            <size>
+              26
+            </size>
+            <size>
+              28
+            </size>
+            <size>
+              29
+            </size>
+            <size>
+              30
+            </size>
+            <size>
+              31
+            </size>
+            <size>
+              32
+            </size>
+            <size>
+              33
+            </size>
+            <size>
+              34
+            </size>
+            <size>
+              35
+            </size>
+            <size>
+              36
+            </size>
+            <size>
+              38
+            </size>
+            <size>
+              40
+            </size>
+            <size>
+              42
+            </size>
+            <size>
+              44
+            </size>
+            <size>
+              46
+            </size>
+            <size>
+              48
+            </size>
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.99</price>
+        <sku>4133-6374-685</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+            <material>
+              Spandex
+            </material>
+        </materials>
+    </item>
+    <item id="003">
+        <name>Converse Chuck Taylor All Star Slip Low Top</name>
+        <photo><img src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Gray</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+            <size>
+              M3/W5
+            </size>
+            <size>
+              M3/W5.5
+            </size>
+            <size>
+              M4/W6
+            </size>
+            <size>
+              M6/W8
+            </size>
+            <size>
+              M8.5/W10.5
+            </size>
+            <size>
+              M10/W12
+            </size>
+        </sizes>
+        <brand>Converse</brand>
+        <price>44.97</price>
+        <sku>1X841-077</sku>
+        <gender>Unisex</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+            <material>
+              Rubber
+            </material>
+        </materials>
+    </item><item id="004">
+        <name>Afterparty Men's Crew Sock</name>
+        <photo><img src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
+        <type>Sock</type>
+        <colors>
+            <color type="primary">Purple</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+            <size>
+              One Size
+            </size>
+        </sizes>
+        <brand>Pair of Thieves</brand>
+        <price>10</price>
+        <sku>Afterparty</sku>
+        <gender>Men</gender>
+        <pattern>Stripe</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item><item id="005">
+        <name>AEO Plaid Oxford Shirt</name>
+        <photo><img src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type></type>
+        <colors>
+            <color type="primary">White</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            <size>
+              XS
+            </size>
+            <size>
+              S
+            </size>
+            <size>
+              M
+            </size>
+            <size>
+              M Tall
+            </size>
+            <size>
+              L
+            </size>
+            <size>
+              XL
+            </size>
+            <size>
+              XXL
+            </size>
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.96</price>
+        <sku>0153-9873-100</sku>
+        <gender>Men</gender>
+        <pattern>Plaid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+    <item id="XXX">
+        <name></name>
+        <photo><img src=""/></photo>
+        <type></type>
+        <colors>
+            <color type="primary"></color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+        </sizes>
+        <brand></brand>
+        <price></price>
+        <sku></sku>
+        <gender></gender>
+        <pattern></pattern>
+        <occasion></occasion>
+        <materials>
+            <material>
+            </material>
+            <material>
             </material>
         </materials>
     </item>

@@ -36,7 +36,7 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-                Polyester
+                Polyester,
             </material>
             <material>
                 Cotton
@@ -108,7 +108,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>
-              Cotton
+              Cotton,
             </material>
             <material>
               Spandex
@@ -151,7 +151,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>
-              Cotton
+              Cotton,
             </material>
             <material>
               Rubber
@@ -256,9 +256,7 @@
         <occasion>Formal, Casual</occasion>
         <materials>
             <material>
-			100% polyester
-            </material>
-            <material>
+			Polyester
             </material>
         </materials>
     </item>
@@ -308,9 +306,13 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-			57% wool, 38% polyester, 5% other
+			Wool,
             </material>
             <material>
+			Polyester,
+            </material>
+			<material>
+			Other
             </material>
         </materials>
     </item>
@@ -354,9 +356,10 @@
         <occasion>Formal, Casual</occasion>
         <materials>
             <material>
-			100% wool. Undercollar: 100% leather
+			Wool,
             </material>
             <material>
+			Leather
             </material>
         </materials>
     </item>
@@ -403,9 +406,11 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-			Shell: 64% polyester, 31% viscose, 5% elastane. Lining: 94% polyester, 6% elastane
+			Polyester,
             </material>
+			Viscose,
             <material>
+			Elastane
             </material>
         </materials>
     </item>
@@ -455,9 +460,13 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-			Wool, poly, elastane
+			Wool, 
             </material>
             <material>
+			Poly,  
+            </material>
+			<material>
+			Elastane 
             </material>
         </materials>
     </item>

@@ -42,7 +42,9 @@
                     <td><xsl:value-of select="gender"/></td>
                     <td><xsl:value-of select="pattern"/></td>
                     <td><xsl:value-of select="occasion"/></td>
-                    <td><xsl:value-of select="material"/></td>
+                    <td><xsl:for-each select="materials/material">
+					<xsl:value-of select="."/>
+					</xsl:for-each></td>
                 </tr>
             </xsl:for-each>
         </table>

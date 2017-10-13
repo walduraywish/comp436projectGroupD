@@ -27,13 +27,13 @@
                     <td><xsl:copy-of select="photo/node()"/></td>
                     <td><xsl:value-of select="type"/></td>
                     
-					<td><xsl:for-each select="colors">
-						<xsl:value-of select="color"/>
+					<td><xsl:for-each select="colors/color">
+						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
                     <td>
-						<xsl:for-each select="sizes">
-						<xsl:value-of select="size"/>	
+						<xsl:for-each select="sizes/size">
+						<xsl:value-of select="."/>/
 						</xsl:for-each>
 					</td>
                     <td><xsl:value-of select="brand"/></td>

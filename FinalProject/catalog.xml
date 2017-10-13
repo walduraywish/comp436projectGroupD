@@ -3,7 +3,7 @@
 <catalog>
     <item id="001">
         <name>Easy-Iron Slim-Fit Shirt</name>
-        <photo><img src="http://lp.hm.com/hmprod?set=key&#91;source&#93;,value&#91;/model/2017/F00%200501616%20007%2068%203380.jpg&#93;&amp;=key&#91;rotate&#93;,value&#91;&#93;&amp;=key&#91;width&#93;,value&#91;&#93;&amp;=key&#91;height&#93;,value&#91;&#93;&amp;=key&#91;x&#93;,value&#91;&#93;&amp;=key&#91;y&#93;,value&#91;&#93;&amp;=key&#91;type&#93;,value&#91;STILL_LIFE_FRONT&#93;&amp;=key&#91;hmver&#93;,value&#91;1&#93;&call=url&#91;file:/product/large&#93&#59;"/></photo>
+        <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
@@ -28,7 +28,7 @@
                 XXL
             </size>
         </sizes>
-        <brand>H&amp;M</brand>
+        <brand>Burton</brand>
         <price>14.99</price>
         <sku>53-5964</sku>
         <gender>Men</gender>
@@ -45,7 +45,7 @@
     </item>
     <item id="002">
         <name>AEO Extreme Flex Classic Flat Front Short</name>
-        <photo><img src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
         <type>Short</type>
         <colors>
             <color type="primary">Red</color>
@@ -117,7 +117,7 @@
     </item>
     <item id="003">
         <name>Converse Chuck Taylor All Star Slip Low Top</name>
-        <photo><img src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
+        <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
         <type>Shoe</type>
         <colors>
             <color type="primary">Gray</color>
@@ -157,9 +157,10 @@
               Rubber
             </material>
         </materials>
-    </item><item id="004">
+    </item>
+	<item id="004">
         <name>Afterparty Men's Crew Sock</name>
-        <photo><img src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
+        <photo><img width="150" height="150" src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
         <type>Sock</type>
         <colors>
             <color type="primary">Purple</color>
@@ -181,10 +182,11 @@
               Cotton
             </material>
         </materials>
-    </item><item id="005">
+    </item>
+	<item id="005">
         <name>AEO Plaid Oxford Shirt</name>
-        <photo><img src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
-        <type></type>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
             <color type="secondary">Blue</color>
@@ -224,9 +226,251 @@
             </material>
         </materials>
     </item>
+
+	<item id="006">
+        <name>Long-Sleeve Tie-Neck Top</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
+        <type>Blouse</type>
+        <colors>
+            <color type="primary">Soft Pink</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			XS
+            </size>
+			S
+            <size>
+			M
+            </size>
+			L
+            <size>
+			XL
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>59.00</price>
+        <sku>#797639</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			100% polyester
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+
+	 <item id="007">
+        <name>Herringbone Bow-Neck Jacket</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
+        <type>JACKETS</type>
+        <colors>
+            <color type="primary">Black&amp;white</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			0
+            </size>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+            <size>
+			14
+            </size>
+            <size>
+			16
+            </size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>117.99</price>
+        <sku>#874213</sku>
+        <gender>Women</gender>
+        <pattern>Herringbone</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			57% wool, 38% polyester, 5% other
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+
+	<item id="008">
+        <name>DONEGAL TWEED OPEN-FRONT COAT</name>
+        <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
+        <type>Coat</type>
+        <colors>
+            <color type="primary">BROWN</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+           <size>
+			0
+            </size>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>798.00</price>
+        <sku>137173826</sku>
+        <gender>Women</gender>
+        <pattern>TWEED</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			100% wool. Undercollar: 100% leather
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+
+	<item id="009">
+        <name>KEYHOLE FIT-AND-FLARE DRESS</name>
+        <photo><img width="150" height="150" src="https://cdna.lystit.com/photos/ralphlauren/136116906-sterling%20grey%20heather-3d189984-.jpeg"/></photo>
+        <type>Dress</type>
+        <colors>
+            <color type="primary">STERLING GREY HEATHER</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+			<size>
+			14
+            </size>
+			<size>
+			16
+            </size>
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>135.00</price>
+        <sku>136116906</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Shell: 64% polyester, 31% viscose, 5% elastane. Lining: 94% polyester, 6% elastane
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+
+    <item id="010">
+        <name>Slim trouser with ruffle waist in wool flannel</name>
+        <photo><img width="150" height="150" src="https://www.jcrew.com/s7-img-facade/G8589_WQ2306"/></photo>
+        <type>Pants</type>
+        <colors>
+            <color type="primary">hthr grey</color>
+            <color type="secondary">hthr beet</color>
+        </colors>
+        <sizes>
+			<size>
+			0
+            </size>
+           <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+			<size>
+			14
+            </size>
+			<size>
+			16
+            </size>
+        </sizes>
+        <brand>J.crew</brand>
+        <price>128.00</price>
+        <sku>G8589</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Wool, poly, elastane
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+
     <item id="XXX">
         <name></name>
-        <photo><img src=""/></photo>
+        <photo><img width="150" height="150" src=""/></photo>
         <type></type>
         <colors>
             <color type="primary"></color>

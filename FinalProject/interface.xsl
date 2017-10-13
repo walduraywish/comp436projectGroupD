@@ -24,17 +24,25 @@
             <xsl:for-each select="catalog/item">
                 <tr>
                     <td><xsl:value-of select="name"/></td>
-                    <td><xsl:value-of select="photo"/></td>
+                    <td><xsl:copy-of select="photo/node()"/></td>
                     <td><xsl:value-of select="type"/></td>
-                    <td><xsl:value-of select="colors"/></td>
-                    <td><xsl:value-of select="sizes"/></td>
+                    
+					<td><xsl:for-each select="colors">
+						<xsl:value-of select="color"/>
+						</xsl:for-each>
+					</td>
+                    <td>
+						<xsl:for-each select="sizes">
+						<xsl:value-of select="size"/>	
+						</xsl:for-each>
+					</td>
                     <td><xsl:value-of select="brand"/></td>
                     <td><xsl:value-of select="price"/></td>
                     <td><xsl:value-of select="sku"/></td>
                     <td><xsl:value-of select="gender"/></td>
                     <td><xsl:value-of select="pattern"/></td>
                     <td><xsl:value-of select="occasion"/></td>
-                    <td><xsl:value-of select="materials"/></td>
+                    <td><xsl:value-of select="material"/></td>
                 </tr>
             </xsl:for-each>
         </table>
